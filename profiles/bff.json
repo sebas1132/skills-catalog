@@ -1,0 +1,16 @@
+{
+    "profile": "bff",
+    "release": "v0.1.0",
+    "skills": [
+        {
+            "id": "shared-pr-review",
+            "path": "skills/shared-pr-review/SKILL.md",
+            "version": "1.0.0"
+        },
+        {
+            "id": "acl-contract-mapper",
+            "path": "skills/bff-dto-contract-review/SKILL.md",
+            "version": "1.0.0"
+        }
+    ]
+}

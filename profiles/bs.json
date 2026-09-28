@@ -1,0 +1,16 @@
+{
+    "profile": "bs",
+    "release": "v0.1.0",
+    "skills": [
+        {
+            "id": "shared-pr-review",
+            "path": "skills/shared-pr-review/SKILL.md",
+            "version": "1.0.0"
+        },
+        {
+            "id": "bs-transaction-review",
+            "path": "skills/bs-transaction-review/SKILL.md",
+            "version": "1.0.0"
+        }
+    ]
+}
